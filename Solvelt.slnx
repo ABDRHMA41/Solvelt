@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Solvelt.vcxproj" Id="d08a7c23-10aa-4285-8059-f171ecef6ea2" />
+</Solution>
