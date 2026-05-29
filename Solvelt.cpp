@@ -1,1 +1,1 @@
-#include <iostream>int main(){	std::cout << "Hi \n";	std::cout << "Hower are you?\n";	std::cout << "Hello World!\n";	std::cout << "Hello World!\n";	return 0;}
+#include <iostream>int main(){	std::cout << "Hi \n";	return 0;}
